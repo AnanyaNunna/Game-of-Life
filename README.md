@@ -5,7 +5,7 @@ In order to run this program , you need to install Active tcl interpreter in you
 The program can be run by typing > tclsh game_of_life.tcl (on the command line)
 Sample program run:
 
-
+```sh
 C:\Users\Ananya\OneDrive\Desktop\Software Engineering>tclsh game_of_life.tcl
 
 WELCOME TO THE GAME OF LIFE !
@@ -35,3 +35,4 @@ FINAL BOARD :
  1 0 1
  0 1 1
  0 1 0
+```
