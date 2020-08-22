@@ -1,4 +1,4 @@
-# Game-of-Life
+# Game-of-Life : Using TCL
 SE CS510
 
 In order to run this program , you need to install Active tcl interpreter in your local system.
