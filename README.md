@@ -1,7 +1,7 @@
 # Game-of-Life
 SE CS510
 
-In order to run this program , you need to install Active tcl interpreter in your system.
+In order to run this program , you need to install Active tcl interpreter in your local system.
 The program can be run by typing > tclsh game_of_life.tcl (on the command line)
 Sample program run:
 
