@@ -57,6 +57,7 @@ proc game_of_life {b rows columns} {
 			}
 		}
 	}
+	puts "\nFINAL BOARD :\n"
 	print_2D $b
 }
 
